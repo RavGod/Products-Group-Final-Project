@@ -5,6 +5,7 @@ Before running the project, be sure to change the 'spring.datasource.password' v
 Upon running the project, go to hoppscotch.io. Here, you can access the database using http://localhost:8081/products
 
 Alternatively, you can run the frontend file using the instructions found in the readme of the frontend file.
+There, you can access and alter the database using the GUI.
 
 http://localhost:8081/products with the GET method returns a list of every item in the database.
 
