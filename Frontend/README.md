@@ -15,6 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 ## *How to run this service: 
 First cd into Frontend, then do npm run dev, finally open a browser page with http://localhost:5173/.
+Be sure to do npm install first.
 
 
 ## *File structure to note and synopsis:
