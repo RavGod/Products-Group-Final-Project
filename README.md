@@ -24,6 +24,6 @@ http://localhost:8081/{id} with the GET method returns a single item from the da
 
 http://localhost:8081/{id} with the DELETE method deletes the item with the correponding ID if it exists.
 
-The SQL script can be found at src/main/resources/db/migration, called 'V1__create_products_table.sql.
+The SQL scripts can be found at src/main/resources/db/migration, called 'V1__create_products_table.sql' and 'V2__insert_products.sql'.
 To ensure that changes to the script are reflected in the program, be sure to delete the old table before updating it.
 These tables are the 'Product' and 'flyway_schema_history' tables.
